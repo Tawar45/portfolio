@@ -275,9 +275,7 @@
     <li><a href="#stack">Stack</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#about">About</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ul>
-  <a href="#contact" class="nav-cta">Hire Me</a>
 </nav>
 
 <!-- HERO -->
@@ -767,70 +765,10 @@
   </div>
 </section>
 
-<!-- CONTACT -->
-<section id="contact">
-  <p class="section-tag">Get In Touch</p>
-  <h2 class="section-title">Start a Project</h2>
-  <div class="contact-wrap">
-    <div class="contact-info">
-      <h3>Let's build something great together.</h3>
-      <p style="color:var(--muted);font-size:0.9rem;line-height:1.7;margin-bottom:2rem;">
-        Whether you have a project in mind, want to explore collaboration, or just have a question — my inbox is always open.
-      </p>
-      <div class="contact-item">
-        <div class="contact-icon">📧</div>
-        <span>hello@johndev.io</span>
-      </div>
-      <div class="contact-item">
-        <div class="contact-icon">📍</div>
-        <span>Available worldwide · Remote-first</span>
-      </div>
-      <div class="contact-item">
-        <div class="contact-icon">💼</div>
-        <span>linkedin.com/in/johndev</span>
-      </div>
-      <div class="contact-item">
-        <div class="contact-icon">🐙</div>
-        <span>github.com/johndev</span>
-      </div>
-    </div>
-    <div>
-      <div class="form-group">
-        <label>Your Name</label>
-        <input type="text" class="form-control" placeholder="Jane Smith" />
-      </div>
-      <div class="form-group">
-        <label>Email Address</label>
-        <input type="email" class="form-control" placeholder="jane@company.com" />
-      </div>
-      <div class="form-group">
-        <label>Project Type</label>
-        <select class="form-control">
-          <option>Custom Shopify Theme</option>
-          <option>Shopify Store Setup</option>
-          <option>Shopify Hydrogen / Headless</option>
-          <option>Theme Customization</option>
-          <option>App Integration</option>
-          <option>Checkout Customization</option>
-          <option>Store Migration to Shopify</option>
-          <option>CRO & Performance Audit</option>
-          <option>Other</option>
-        </select>
-      </div>
-      <div class="form-group">
-        <label>Tell me about your project</label>
-        <textarea class="form-control" placeholder="Describe your project, timeline, and budget…"></textarea>
-      </div>
-      <button class="btn-primary" style="width:100%;text-align:center;" onclick="alert('Message sent! I\'ll get back to you within 24 hours.')">
-        Send Message →
-      </button>
-    </div>
-  </div>
-</section>
 
 <!-- FOOTER -->
 <footer>
-  <div>© 2025 John Dev · Built with passion & caffeine</div>
+  <div>© 2025 Rohit Tawar · </div>
   <div class="footer-links">
     <a href="#">GitHub</a>
     <a href="#">LinkedIn</a>
